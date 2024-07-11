@@ -1,0 +1,1 @@
+An application that streamlines the work of the theoretical library. To create it, I used the Java programming language and the Java Swing library in which the graphic interface of the application was created.
